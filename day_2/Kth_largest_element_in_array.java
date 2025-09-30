@@ -12,7 +12,7 @@ import java.util.PriorityQueue;
     }
     public static int kLargest(int[] nums,int k){
         PriorityQueue<Integer> minHeap=new PriorityQueue<>();
-        int n=nums.length;
+
         for(int num:nums){
             minHeap.add(num);
       
