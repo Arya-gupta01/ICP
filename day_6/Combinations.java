@@ -1,5 +1,5 @@
 package day_6;
-import java.util.*;
+import java.util.ArrayList;
 
 
 public class Combinations {
