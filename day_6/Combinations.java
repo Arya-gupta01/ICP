@@ -1,4 +1,6 @@
 package day_6;
+import java.util.*;
+
 
 public class Combinations {
     class Solution {
